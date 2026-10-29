@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 92" fill="none">
+  <!-- Bhoumi Consultancy Brand Logo -->
+  <g id="Emblem">
+    <!-- Outer Shield / Protective Crest in Deep Navy & Primary Blue -->
+    <defs>
+      <linearGradient id="shieldGrad" x1="12" y1="8" x2="68" y2="76" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#1557B0" />
+        <stop offset="100%" stop-color="#102747" />
+      </linearGradient>
+      <linearGradient id="accentGrad" x1="30" y1="20" x2="60" y2="70" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#38BDF8" />
+        <stop offset="100%" stop-color="#1557B0" />
+      </linearGradient>
+      <linearGradient id="warmAccent" x1="35" y1="25" x2="45" y2="45" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#F59E0B" />
+        <stop offset="100%" stop-color="#D97706" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Shield Base -->
+    <path d="M40 10 C58 10 70 17 72 32 C72 54 52 72 40 80 C28 72 8 54 8 32 C10 17 22 10 40 10 Z" fill="url(#shieldGrad)" />
+    
+    <!-- Inner Caring Heart & Cross / Wing Motif -->
+    <path d="M40 22 C48 22 56 26 56 36 C56 48 45 60 40 65 C35 60 24 48 24 36 C24 26 32 22 40 22 Z" fill="#FFFFFF" fill-opacity="0.12" />
+    <path d="M40 27 L40 55 M26 41 L54 41" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+    <circle cx="40" cy="41" r="3.5" fill="url(#warmAccent)" />
+    
+    <!-- Dynamic Care Swirl / Leaf Curve -->
+    <path d="M22 50 C26 62 34 68 40 71 C46 68 54 62 58 50" stroke="url(#accentGrad)" stroke-width="3" stroke-linecap="round" fill="none" />
+  </g>
+  
+  <!-- Typography -->
+  <g id="Wordmark">
+    <!-- BHOUMI -->
+    <text x="88" y="46" font-family="'Plus Jakarta Sans', 'Manrope', 'Inter', -apple-system, sans-serif" font-size="34" font-weight="800" letter-spacing="1.5" fill="#102747">
+      BHOUMI
+    </text>
+    <!-- CONSULTANCY -->
+    <text x="89" y="68" font-family="'Inter', -apple-system, sans-serif" font-size="12.5" font-weight="700" letter-spacing="4.8" fill="#1557B0">
+      CONSULTANCY
+    </text>
+    <!-- SUBTITLE PILL -->
+    <rect x="268" y="27" width="176" height="23" rx="11.5" fill="#F2F7FD" stroke="#E2E8F0" stroke-width="1" />
+    <circle cx="280" cy="38.5" r="3" fill="#1557B0" />
+    <text x="290" y="42.5" font-family="'Inter', -apple-system, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8" fill="#1557B0">
+      HEALTH INSURANCE ADVISORY
+    </text>
+  </g>
+</svg>
+

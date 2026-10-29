@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 70" fill="none">
+  <!-- HDFC ERGO General Insurance Official Styled Vector Logo -->
+  <g id="Emblem">
+    <!-- Red Outer Frame -->
+    <rect x="10" y="10" width="50" height="50" rx="4" fill="#ED1C24" />
+    <!-- Blue Inner Square Block -->
+    <rect x="20" y="20" width="30" height="30" fill="#003366" />
+    <!-- White Lettering HDFC -->
+    <text x="35" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">
+      HDFC
+    </text>
+  </g>
+  <g id="BrandText">
+    <text x="72" y="33" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="20" font-weight="800" fill="#003366" letter-spacing="0.5">
+      HDFC <tspan fill="#ED1C24">ERGO</tspan>
+    </text>
+    <text x="72" y="48" font-family="'Inter', Arial, sans-serif" font-size="9" font-weight="700" fill="#4B5563" letter-spacing="1">
+      GENERAL INSURANCE
+    </text>
+    <text x="72" y="59" font-family="'Inter', Arial, sans-serif" font-size="7.5" font-weight="500" fill="#6B7280" letter-spacing="0.5">
+      Authorized Health Insurance Partner
+    </text>
+  </g>
+</svg>
+

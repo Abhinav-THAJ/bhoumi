@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 70" fill="none">
+  <!-- Star Health and Allied Insurance Official Styled Vector Logo -->
+  <g id="Emblem">
+    <!-- Star Circle -->
+    <circle cx="36" cy="35" r="28" fill="#002D62" />
+    <circle cx="36" cy="35" r="25" stroke="#ED1C24" stroke-width="2" />
+    <!-- 8 Point Star in Center -->
+    <path d="M36 17 L39 29 L51 29 L41 36 L45 48 L36 41 L27 48 L31 36 L21 29 L33 29 Z" fill="#FFFFFF" />
+    <circle cx="36" cy="35" r="4.5" fill="#ED1C24" />
+  </g>
+  <g id="BrandText">
+    <text x="76" y="32" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="20" font-weight="800" fill="#002D62" letter-spacing="0.5">
+      Star Health
+    </text>
+    <text x="76" y="47" font-family="'Inter', Arial, sans-serif" font-size="9.5" font-weight="600" fill="#ED1C24" letter-spacing="0.8">
+      AND ALLIED INSURANCE
+    </text>
+    <text x="76" y="58" font-family="'Inter', Arial, sans-serif" font-size="7.5" font-weight="500" fill="#5A6B82" letter-spacing="0.5">
+      The Health Insurance Specialist
+    </text>
+  </g>
+</svg>
+
